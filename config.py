@@ -1,1 +1,1 @@
-result=20
+result=10
